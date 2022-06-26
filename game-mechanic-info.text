@@ -1,0 +1,38 @@
+Game Mechanic
+- 3 class: Warrior, Hunter, Mage
+- Each class has subclass
+- Subclasses will apply different playing style and game mechanics
+    Warrior (high cost, low damage, high health)
+        - Sword: Attack Buff
+        - Axe: Bleed Status
+        - Mace: 
+        - Hammer: 
+        - Spear: 
+        - Shield: Reflect
+
+    Hunter (moderate cost, moderate damage, moderate health)
+        - Bow
+        - Crossbow
+        - Dagger
+        - Quarterstaff
+        - Fist weapon
+        - Gun/Cannon
+
+    Mage (low cost, high damage, low health)
+        - Fire
+        - Ice 
+        - Arcane
+        - Blood
+        - Nature
+        - Holy
+
+Game Phase
+
+-Draw Phase
+
+
+-Status Phase
+
+
+
+
